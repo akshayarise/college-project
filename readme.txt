@@ -1,5 +1,8 @@
 //fist Recognition using CvHaarClassifierCascade in opencv-2.4.8 in ubuntu-12.04 using c++ language.
 
+// The data for this project is present at https://cloudinary.com/console/c-c4a0ebbf064643e73cc618faa49550/media_library/folders/home
+// data on cloudinary is present in folders such as positive, negative, Samples, rawdata.
+
 Cascade Classification
 Haar Feature-based Cascade Classifier for Object Detection
 
